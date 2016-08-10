@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Diffy",
+		"Emmet",
+		"Evernote",
+		"Git",
+		"HexViewer",
+		"IMESupport",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"SublimeTmpl",
+		"Terminal",
+		"WakaTime",
+		"Web Inspector"
+	]
+}

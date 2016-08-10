@@ -1,0 +1,1376 @@
+{
+	"folder_history":
+	[
+		"/D/Program Files/Sublime Text 3/workspace",
+		"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test",
+		"/E/Learning/Code",
+		"/F/Learning/Code",
+		"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation",
+		"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation",
+		"/F/Learning/Code/LeetCode",
+		"/E/Program Files/Sublime Text 3/workspace"
+	],
+	"last_version": 3114,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 967.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"list",
+						"ListNode"
+					],
+					[
+						"inc",
+						"introduce"
+					],
+					[
+						"ma",
+						"main	main()"
+					],
+					[
+						"for",
+						"for	For Loop"
+					],
+					[
+						"isoI",
+						"isolInfoFile"
+					],
+					[
+						"isoL",
+						"isolInfoFile"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Markdown Preview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Markdown Preview/Markdown.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "evernote",
+				"selected_items":
+				[
+					[
+						"evernote",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"evernote:",
+						"Evernote: Update Evernote Note"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"evernote:new",
+						"Evernote: New empty note"
+					],
+					[
+						"encoding",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git : add",
+						"Git: Add All"
+					],
+					[
+						"git :com",
+						"Git: Commit"
+					],
+					[
+						"git : addc",
+						"Git: Add Current File"
+					],
+					[
+						"git:c",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add All"
+					],
+					[
+						"git:co",
+						"Git: Commit"
+					],
+					[
+						"git:p",
+						"Git: Push"
+					],
+					[
+						"git:a",
+						"Git: Add Current File"
+					],
+					[
+						"git",
+						"Git: Add Current File"
+					],
+					[
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"ever",
+						"Evernote: New empty note"
+					],
+					[
+						"everntoe",
+						"Evernote: New empty note"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"gdb",
+						"SublimeGDB: Start Debugging"
+					],
+					[
+						"evernote:li",
+						"Evernote: List recent notes"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git:s",
+						"Git: Status"
+					],
+					[
+						"git:in",
+						"Git: Init"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: For Loop"
+					],
+					[
+						"evernote:o",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 440.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')  ",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/AudioRealTimeProcessSystem/README.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/README.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiplePitch-master/README.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/readWavTest/readWavTest/audioData.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/readWavTest/readWavTest/audioData2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/ScoreInformedPianoTranscription/ScoreInformedPianoTranscription/readme.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/xFrame2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/test/H0.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/test/midi.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/midi.dat",
+				"/E/Program Files/Emacs/.emacs.d/elpa/matlab-mode-20160527.1352/matlab.elc",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/Evalute/Evalute/H0.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
+				"/G/Downloads/EmacsEmulations/extension.vsixmanifest",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/Evalute/Evalute/midi.dat",
+				"/C/logdata.dat",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/src/README.md",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/README.md",
+				"/E/Program Files/WordPress/wp-config-sample.php",
+				"/E/Program Files/Emacs/.emacs.d/elpa/yasnippet-20160718.1846/snippets/cc-mode/head-comment",
+				"/E/Program Files/Emacs/.emacs.d/elpa/yasnippet-20160718.1846/snippets/cc-mode/for_n",
+				"/E/Program Files/Emacs/.emacs.d/elpa/yasnippet-20160718.1846/snippets/c-mode/head-comment",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/E/Program Files/MATLAB/workspace/MultiF0Estimation/HFile2.dat",
+				"/E/Program Files/Sublime Text 3/workspace/C程序规范.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/hammingData.dat",
+				"/F/Learning/Code/Markdown/Emacs.org",
+				"/F/Learning/Code/Markdown/Emacs Markdown.markdown",
+				"/F/Learning/Code/Markdown/MultiFreqEstimation.markdown",
+				"/F/Learning/Code/Markdown/test.txt",
+				"/F/Learning/Code/LeetCode/linearlist.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/isolInfo.dat",
+				"/E/Program Files/Sublime Text 3/workspace/Emacs yasnippet.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/template.dat",
+				"/E/Program Files/Sublime Text 3/workspace/demo.c",
+				"/F/Learning/Code/LeetCode/stringToInteger.c",
+				"/C/Users/itec/Desktop/bookmarks_2016_7_18.html",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+				"/E/Program Files/Sublime Text 3/workspace/sublime-text.md",
+				"/E/Program Files/Sublime Text 3/workspace/write.md",
+				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.prf",
+				"/G/Downloads/matlab.prf",
+				"/G/Downloads/matlab-monokai.prf",
+				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.settings",
+				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/History.bak",
+				"/C/Windows/System32/drivers/etc/HOSTS",
+				"/E/Program Files/MATLAB/workspace/MultiF0Estimation/template.dat",
+				"/F/Learning/Code/LeetCode/reverseInteger.c",
+				"/F/Learning/Code/LeetCode/addTwoNumbers.c",
+				"/F/IAS/乐谱跟踪/多音调检测/MultiFreqEstimation/readme",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/H_test2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/要使用全局参数.txt",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test2.dat",
+				"/F/Learning/Code/LeetCode/HuffmanCoding.h",
+				"/F/Learning/Code/LeetCode/HuffmanCoding.c",
+				"/F/Learning/Code/LeetCode/HuffmanCodingImplement.c",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/bk_xmas1_ENSTDkAm_H.dat",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/xFrame2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRoll.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/testResult.txt",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/H_test.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/computeTemplate.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_convert.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/multiF0Estimation.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfAudio.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfAudio.h",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfFrame.h",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/spectrumOfFrame.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRoll_commit.dat",
+				"/F/IAS/乐谱跟踪/wav解析/nmf/version_1.03beta/Makefile",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/frameData.txt",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_beta.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_updateW.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_beta.h",
+				"/F/Learning/Code/LeetCode/addTwoNumbers.cpp",
+				"/F/Learning/Code/LeetCode/linearlistImplement.c",
+				"/F/Learning/Code/LeetCode/QuickSort.c",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/doxygen commit.sublime-snippet",
+				"/F/Learning/Code/LeetCode/TwoSum.c",
+				"/F/Learning/Code/LeetCode/TwoSum.cpp",
+				"/F/Learning/Code/LeetCode/LongestSubstring.c",
+				"/F/Learning/Code/LeetCode/linearlist.c",
+				"/F/Learning/Code/LeetCode/AddTwoNumbers.cpp",
+				"/F/Learning/Code/LeetCode/LinearListImplement.c",
+				"/F/Learning/Code/LeetCode/LinearList.c",
+				"/F/Learning/Code/LeetCode/LinearList.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/e/mingw/lib/gcc/mingw32/4.9.3/include/c++/bits/c++0x_warning.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+				"/F/Learning/Code/LeetCode/test.py",
+				"/C/Users/itec/Desktop/A10、泛微PC端演示flash/weaver_E8/weaver_E8/index.html",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/E/Program Files/Sublime Text 3/workspace/sublime-text.html",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/evernotemarkdown.tmpl",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRollStandard.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/template.mat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRollResult.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRollTest.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/test.c",
+				"/E/Program Files/MATLAB/workspace/MultiF0Estimation/Libraries/nmflib/nmf_beta.m",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/spectrumOfFrame.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/computeTemplate.h",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/template.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrameTest.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/isolInfo.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrameFirst2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/HData.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrameLast2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/out.dat",
+				"/F/IAS/乐谱跟踪/wav解析/Git/MultiF0Estimation/C/MultiF0Estimation/MultiF0Estimation/template.dat",
+				"/E/Program Files/Sublime Text 3/workspace/xNote.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xNoteSound.dat",
+				"/E/Program Files/Sublime Text 3/workspace/isolInfo.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/spectrumSignal.dat",
+				"/C/Users/itec/AppData/Local/Sublime Text 3/Cache/C++/C.sublime-syntax.rcache",
+				"/C/Users/itec/AppData/Local/Sublime Text 3/Cache/C++/C.sublime-syntax.cache",
+				"/E/Program Files/Sublime Text 3/workspace/wavData.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xNote.dat"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Colors_M_Warnings=C-27648",
+					"Editorhighlight-lines=C-11974594",
+					"SimulinkProjectTemplatesRecent",
+					"github.com"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.active_lines_compare":
+			{
+				"height": 118.0
+			},
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 118.0
+			},
+			"output.markdown":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 174.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 1
+			}
+		},
+		"new_window_width": 1678.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"for	For Loop"
+					],
+					[
+						"list",
+						"ListNode"
+					],
+					[
+						"inc",
+						"introduce"
+					],
+					[
+						"ma",
+						"main	main()"
+					],
+					[
+						"isoI",
+						"isolInfoFile"
+					],
+					[
+						"isoL",
+						"isolInfoFile"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/Program Files/Sublime Text 3/workspace/demo.c",
+					"settings":
+					{
+						"buffer_size": 331,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/User/C.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Markdown Preview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Markdown Preview/Markdown.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "pre",
+				"selected_items":
+				[
+					[
+						"pre",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: If Condition"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git:s",
+						"Git: Status"
+					],
+					[
+						"evernote",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"evernote:",
+						"Evernote: Update Evernote Note"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"evernote:new",
+						"Evernote: New empty note"
+					],
+					[
+						"encoding",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git : add",
+						"Git: Add All"
+					],
+					[
+						"git :com",
+						"Git: Commit"
+					],
+					[
+						"git : addc",
+						"Git: Add Current File"
+					],
+					[
+						"git:c",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add All"
+					],
+					[
+						"git:co",
+						"Git: Commit"
+					],
+					[
+						"git:p",
+						"Git: Push"
+					],
+					[
+						"git:a",
+						"Git: Add Current File"
+					],
+					[
+						"git",
+						"Git: Add Current File"
+					],
+					[
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"ever",
+						"Evernote: New empty note"
+					],
+					[
+						"everntoe",
+						"Evernote: New empty note"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"gdb",
+						"SublimeGDB: Start Debugging"
+					],
+					[
+						"evernote:li",
+						"Evernote: List recent notes"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git:in",
+						"Git: Init"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"evernote:o",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')  ",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Program Files/Sublime Text 3/workspace"
+			],
+			"file_history":
+			[
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/User/C Snippets/for.sublime-snippet",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
+				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/nmf_beta.c",
+				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/HFile.dat",
+				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/HFile2.dat",
+				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/xFrame2.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/nmf_beta.c",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/TCL/Snippets/for...-(for).sublime-snippet",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/C++/C++.sublime-syntax",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/C++/C.sublime-syntax",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/forv.sublime-snippet",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/spectrumOfFrame.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiThreadDemo/MultiThreadDemo/compare.dat",
+				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/multiF0Estimation.c",
+				"/D/Program Files/Sublime Text 3/workspace/result.dat",
+				"/C/Windows/System32/drivers/etc/HOSTS",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/kiss-fft/README",
+				"/E/Learning/Code/LeetCode/addTwoNumbers.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/Analyzer.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/fftw/fftw3.h",
+				"/E/Learning/Code/Markdown/C Language Standard.markdown",
+				"/E/Learning/Code/Markdown/C内存错误.markdown",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/.emacs",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/readWavTest/readWavTest/audioData.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/ThreadDemo/ThreadDemo/ThreadDemo.c",
+				"/G/Github/AudioRealTimeProcessSystem/test/test/Analyzer.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/AudioRealTimeProcessSystem/test/test/Analyzer.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/AudioRealTimeProcessSystem/README.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/README.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiplePitch-master/README.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/readWavTest/readWavTest/audioData2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/ScoreInformedPianoTranscription/ScoreInformedPianoTranscription/readme.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/xFrame2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/test/H0.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/test/midi.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/midi.dat",
+				"/E/Program Files/Emacs/.emacs.d/elpa/matlab-mode-20160527.1352/matlab.elc",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/Evalute/Evalute/H0.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
+				"/G/Downloads/EmacsEmulations/extension.vsixmanifest",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/Evalute/Evalute/midi.dat",
+				"/C/logdata.dat",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/src/README.md",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/README.md",
+				"/E/Program Files/WordPress/wp-config-sample.php",
+				"/E/Program Files/Emacs/.emacs.d/elpa/yasnippet-20160718.1846/snippets/cc-mode/head-comment",
+				"/E/Program Files/Emacs/.emacs.d/elpa/yasnippet-20160718.1846/snippets/cc-mode/for_n",
+				"/E/Program Files/Emacs/.emacs.d/elpa/yasnippet-20160718.1846/snippets/c-mode/head-comment",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/E/Program Files/MATLAB/workspace/MultiF0Estimation/HFile2.dat",
+				"/E/Program Files/Sublime Text 3/workspace/C程序规范.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/hammingData.dat",
+				"/F/Learning/Code/Markdown/Emacs.org",
+				"/F/Learning/Code/Markdown/Emacs Markdown.markdown",
+				"/F/Learning/Code/Markdown/MultiFreqEstimation.markdown",
+				"/F/Learning/Code/Markdown/test.txt",
+				"/F/Learning/Code/LeetCode/linearlist.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/isolInfo.dat",
+				"/E/Program Files/Sublime Text 3/workspace/Emacs yasnippet.md",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/template.dat",
+				"/E/Program Files/Sublime Text 3/workspace/demo.c",
+				"/F/Learning/Code/LeetCode/stringToInteger.c",
+				"/C/Users/itec/Desktop/bookmarks_2016_7_18.html",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+				"/E/Program Files/Sublime Text 3/workspace/sublime-text.md",
+				"/E/Program Files/Sublime Text 3/workspace/write.md",
+				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.prf",
+				"/G/Downloads/matlab.prf",
+				"/G/Downloads/matlab-monokai.prf",
+				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.settings",
+				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/History.bak",
+				"/E/Program Files/MATLAB/workspace/MultiF0Estimation/template.dat",
+				"/F/Learning/Code/LeetCode/reverseInteger.c",
+				"/F/Learning/Code/LeetCode/addTwoNumbers.c",
+				"/F/IAS/乐谱跟踪/多音调检测/MultiFreqEstimation/readme",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/H_test2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/要使用全局参数.txt",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test2.dat",
+				"/F/Learning/Code/LeetCode/HuffmanCoding.h",
+				"/F/Learning/Code/LeetCode/HuffmanCoding.c",
+				"/F/Learning/Code/LeetCode/HuffmanCodingImplement.c",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/bk_xmas1_ENSTDkAm_H.dat",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/xFrame2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame2.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRoll.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/testResult.txt",
+				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/H_test.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/computeTemplate.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_convert.dat",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/multiF0Estimation.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfAudio.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfAudio.h",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfFrame.h",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/spectrumOfFrame.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRoll_commit.dat",
+				"/F/IAS/乐谱跟踪/wav解析/nmf/version_1.03beta/Makefile",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/frameData.txt",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_beta.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_updateW.c",
+				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_beta.h",
+				"/F/Learning/Code/LeetCode/addTwoNumbers.cpp",
+				"/F/Learning/Code/LeetCode/linearlistImplement.c",
+				"/F/Learning/Code/LeetCode/QuickSort.c",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/doxygen commit.sublime-snippet",
+				"/F/Learning/Code/LeetCode/TwoSum.c",
+				"/F/Learning/Code/LeetCode/TwoSum.cpp",
+				"/F/Learning/Code/LeetCode/LongestSubstring.c",
+				"/F/Learning/Code/LeetCode/linearlist.c",
+				"/F/Learning/Code/LeetCode/AddTwoNumbers.cpp",
+				"/F/Learning/Code/LeetCode/LinearListImplement.c",
+				"/F/Learning/Code/LeetCode/LinearList.c",
+				"/F/Learning/Code/LeetCode/LinearList.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/e/mingw/lib/gcc/mingw32/4.9.3/include/c++/bits/c++0x_warning.h",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+				"/F/Learning/Code/LeetCode/test.py",
+				"/C/Users/itec/Desktop/A10、泛微PC端演示flash/weaver_E8/weaver_E8/index.html",
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fftw_plan_dft_1d",
+					"Colors_M_Warnings=C-27648",
+					"Editorhighlight-lines=C-11974594",
+					"SimulinkProjectTemplatesRecent",
+					"github.com"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\Learning\\Code"
+				},
+				{
+					"path": "D:\\Program Files\\Microsoft Visual Studio 14.0\\workspace\\AudioRealTimeProcessSystem\\test\\test"
+				},
+				{
+					"path": "D:\\Program Files\\Sublime Text 3\\workspace"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Program Files/Sublime Text 3/workspace/demo.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 331,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										262,
+										262
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C++/C.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.active_lines_compare":
+			{
+				"height": 118.0
+			},
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 118.0
+			},
+			"output.markdown":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,559,0,0,1114",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 174.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 1
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
