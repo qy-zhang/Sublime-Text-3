@@ -687,6 +687,30 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
+					"settings":
+					{
+						"buffer_size": 1911,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
+					"settings":
+					{
+						"buffer_size": 46547,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Program Files/Sublime Text 3/workspace/demo.c",
+					"settings":
+					{
+						"buffer_size": 331,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "Packages/User/C.sublime-build",
 			"build_system_choices":
@@ -1233,8 +1257,96 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1911,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1671,
+										1671
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 918.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 46547,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										88,
+										88
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1404.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Program Files/Sublime Text 3/workspace/demo.c",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 331,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				}
 			],
