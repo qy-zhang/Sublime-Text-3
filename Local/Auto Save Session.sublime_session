@@ -688,26 +688,10 @@
 			"buffers":
 			[
 				{
-					"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
+					"file": "/E/Learning/Code/Markdown/TodoList.org",
 					"settings":
 					{
-						"buffer_size": 1911,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
-					"settings":
-					{
-						"buffer_size": 46547,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Program Files/Sublime Text 3/workspace/demo.c",
-					"settings":
-					{
-						"buffer_size": 331,
+						"buffer_size": 751,
 						"line_ending": "Windows"
 					}
 				}
@@ -863,10 +847,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "pre",
+				"height": 173.0,
+				"last_filter": "package insta",
 				"selected_items":
 				[
+					[
+						"package insta",
+						"Package Control: Install Package"
+					],
+					[
+						"evernote:",
+						"Evernote: Send to Evernote as new note"
+					],
 					[
 						"pre",
 						"PackageResourceViewer: Open Resource"
@@ -902,10 +894,6 @@
 					[
 						"remove",
 						"Package Control: Remove Package"
-					],
-					[
-						"evernote:",
-						"Evernote: Update Evernote Note"
 					],
 					[
 						"Package Control: ins",
@@ -1048,7 +1036,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 432.0
+				"width": 440.0
 			},
 			"console":
 			{
@@ -1072,16 +1060,25 @@
 			},
 			"expanded_folders":
 			[
+				"/E/Learning/Code",
+				"/E/Learning/Code/Markdown",
 				"/D/Program Files/Sublime Text 3/workspace"
 			],
 			"file_history":
 			[
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/xFrame.dat",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+				"/E/Learning/Code/Markdown/EmacsMagit.markdown",
+				"/E/Learning/Code/Markdown/EmacsEvernote.markdown",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
 				"/C/Users/zhang/Desktop/threadForMFE.c",
 				"/C/Users/zhang/Desktop/readme.md",
 				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
 				"/C/Users/zhang/Desktop/忽略掉的时间.txt",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/xFrame.dat",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/wavData.dat",
 				"/D/Program Files/Sublime Text 3/workspace/demo.c",
 				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/User/C Snippets/for.sublime-snippet",
@@ -1196,14 +1193,7 @@
 				"/F/Learning/Code/LeetCode/linearlistImplement.c",
 				"/F/Learning/Code/LeetCode/QuickSort.c",
 				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/doxygen commit.sublime-snippet",
-				"/F/Learning/Code/LeetCode/TwoSum.c",
-				"/F/Learning/Code/LeetCode/TwoSum.cpp",
-				"/F/Learning/Code/LeetCode/LongestSubstring.c",
-				"/F/Learning/Code/LeetCode/linearlist.c",
-				"/F/Learning/Code/LeetCode/AddTwoNumbers.cpp",
-				"/F/Learning/Code/LeetCode/LinearListImplement.c",
-				"/F/Learning/Code/LeetCode/LinearList.c",
-				"/F/Learning/Code/LeetCode/LinearList.h"
+				"/F/Learning/Code/LeetCode/TwoSum.c"
 			],
 			"find":
 			{
@@ -1248,9 +1238,6 @@
 					"path": "E:\\Learning\\Code"
 				},
 				{
-					"path": "D:\\Program Files\\Microsoft Visual Studio 14.0\\workspace\\AudioRealTimeProcessSystem\\test\\test"
-				},
-				{
 					"path": "D:\\Program Files\\Sublime Text 3\\workspace"
 				}
 			],
@@ -1262,89 +1249,30 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
+							"file": "/E/Learning/Code/Markdown/TodoList.org",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1911,
+								"buffer_size": 751,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1671,
-										1671
+										422,
+										422
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 918.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 46547,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										88,
-										88
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1404.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Program Files/Sublime Text 3/workspace/demo.c",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 331,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/C++/C.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/orgmode/orgmode.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]

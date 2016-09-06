@@ -687,6 +687,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/Program Files/Sublime Text 3/workspace/Demo.cpp",
+					"settings":
+					{
+						"buffer_size": 157,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "Packages/User/C.sublime-build",
 			"build_system_choices":
@@ -839,10 +847,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "pre",
+				"height": 392.0,
+				"last_filter": "evernote:",
 				"selected_items":
 				[
+					[
+						"evernote:",
+						"Evernote: Send to Evernote as new note"
+					],
 					[
 						"pre",
 						"PackageResourceViewer: Open Resource"
@@ -878,10 +890,6 @@
 					[
 						"remove",
 						"Package Control: Remove Package"
-					],
-					[
-						"evernote:",
-						"Evernote: Update Evernote Note"
 					],
 					[
 						"Package Control: ins",
@@ -1024,7 +1032,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 432.0
+				"width": 440.0
 			},
 			"console":
 			{
@@ -1048,16 +1056,25 @@
 			},
 			"expanded_folders":
 			[
+				"/E/Learning/Code",
+				"/E/Learning/Code/Markdown",
 				"/D/Program Files/Sublime Text 3/workspace"
 			],
 			"file_history":
 			[
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/xFrame.dat",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/E/Learning/Code/Markdown/EmacsMagit.markdown",
+				"/E/Learning/Code/Markdown/EmacsEvernote.markdown",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
 				"/C/Users/zhang/Desktop/threadForMFE.c",
 				"/C/Users/zhang/Desktop/readme.md",
 				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
 				"/C/Users/zhang/Desktop/忽略掉的时间.txt",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/xFrame.dat",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/wavData.dat",
 				"/D/Program Files/Sublime Text 3/workspace/demo.c",
 				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/User/C Snippets/for.sublime-snippet",
@@ -1172,14 +1189,7 @@
 				"/F/Learning/Code/LeetCode/linearlistImplement.c",
 				"/F/Learning/Code/LeetCode/QuickSort.c",
 				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/doxygen commit.sublime-snippet",
-				"/F/Learning/Code/LeetCode/TwoSum.c",
-				"/F/Learning/Code/LeetCode/TwoSum.cpp",
-				"/F/Learning/Code/LeetCode/LongestSubstring.c",
-				"/F/Learning/Code/LeetCode/linearlist.c",
-				"/F/Learning/Code/LeetCode/AddTwoNumbers.cpp",
-				"/F/Learning/Code/LeetCode/LinearListImplement.c",
-				"/F/Learning/Code/LeetCode/LinearList.c",
-				"/F/Learning/Code/LeetCode/LinearList.h"
+				"/F/Learning/Code/LeetCode/TwoSum.c"
 			],
 			"find":
 			{
@@ -1224,17 +1234,45 @@
 					"path": "E:\\Learning\\Code"
 				},
 				{
-					"path": "D:\\Program Files\\Microsoft Visual Studio 14.0\\workspace\\AudioRealTimeProcessSystem\\test\\test"
-				},
-				{
 					"path": "D:\\Program Files\\Sublime Text 3\\workspace"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/Program Files/Sublime Text 3/workspace/Demo.cpp",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 157,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -1294,7 +1332,7 @@
 				"height": 118.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,559,0,0,1114",
+			"position": "0,2,3,-1,-1,-1,-1,559,0,0,1114",
 			"project": "",
 			"replace":
 			{
