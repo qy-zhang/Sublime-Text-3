@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test",
 		"/D/Program Files/Sublime Text 3/workspace",
 		"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test",
 		"/E/Learning/Code",
@@ -10,8 +11,8 @@
 		"/F/Learning/Code/LeetCode",
 		"/E/Program Files/Sublime Text 3/workspace"
 	],
-	"last_version": 3114,
-	"last_window_id": 21,
+	"last_version": 3126,
+	"last_window_id": 23,
 	"log_indexing": false,
 	"settings":
 	{
@@ -23,8 +24,12 @@
 				"selected_items":
 				[
 					[
+						"jTe",
+						"jTemplateData"
+					],
+					[
 						"for",
-						"for	For Loop"
+						"for\tFor Loop"
 					],
 					[
 						"list",
@@ -36,7 +41,7 @@
 					],
 					[
 						"ma",
-						"main	main()"
+						"main\tmain()"
 					],
 					[
 						"isoI",
@@ -75,7 +80,7 @@
 					],
 					[
 						"Packages/User/C++.sublime-build",
-						"Run"
+						""
 					]
 				],
 				[
@@ -140,6 +145,26 @@
 					[
 						"Packages/User/C.sublime-build",
 						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
 					]
 				],
 				[
@@ -198,10 +223,26 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "pre",
+				"height": 173.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package insta",
+						"Package Control: Install Package"
+					],
+					[
+						"evernote:",
+						"Evernote: Send to Evernote as new note"
+					],
 					[
 						"pre",
 						"PackageResourceViewer: Open Resource"
@@ -231,16 +272,8 @@
 						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"remove",
 						"Package Control: Remove Package"
-					],
-					[
-						"evernote:",
-						"Evernote: Update Evernote Note"
 					],
 					[
 						"Package Control: ins",
@@ -407,9 +440,67 @@
 			},
 			"file_history":
 			[
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/wavData.dat",
-				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/User/C Snippets/for.sublime-snippet",
+				"/E/Learning/Code/LeetCode/addTwoNumbers.py",
+				"/D/Android/workspace/jda/app/src/main/jni/jda-jni.cpp",
+				"/E/Learning/Code/Markdown/android study.markdown",
+				"/D/Android/workspace/yhstaff/app/src/main/jni/main.cpp",
+				"/D/Android/workspace/Final/test1 - 副本.xml",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/Analyzer.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readWav.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/MFE.c",
+				"/F/Downloads/Pachelbel - Canon in D.mxl",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/MFE.h",
+				"/C/Users/zhangqianyi/Desktop/test1.xml",
+				"/E/Learning/Code/Markdown/C语言接口与实现.markdown",
+				"/D/Android/workspace/Final/test1.xml",
+				"/D/Android/workspace/Final/test22.xml",
+				"/D/Android/workspace/Final/demo.xml",
+				"/D/Android/workspace/Final/wav1.xml",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
+				"/C/Users/zhangqianyi/Desktop/test4.xml",
+				"/C/Users/zhangqianyi/Desktop/test22.xml",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiFreqEstimation/MultiFreqEstimation/xFrame2.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/win.txt",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/test.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Demo/Demo/result.txt",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/result.txt",
+				"/E/Learning/Code/LeetCode/twoSum.cpp",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/D/Program Files/Sublime Text 3/workspace/readFile.java",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/template.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MFE/MFE/MFEinterface.c",
+				"/D/Android/workspace/jda/app/src/main/jni/jda.h",
+				"/D/Android/workspace/jda/app/src/main/jni/jda.c",
+				"/D/Program Files/Sublime Text 3/workspace/Demo.cpp",
+				"/D/Program Files/Sublime Text 3/workspace/Demo.java",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Java/JavaC.sublime-build",
+				"/E/Learning/Code/readFile.java",
+				"/D/Program Files/Sublime Text 3/workspace/Demo.c",
+				"/E/Learning/Code/LeetCode/reverseInteger.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MFE/MFE/MFE.c",
+				"/D/Program Files/Sublime Text 3/workspace/data.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiFreqEstimation/MultiFreqEstimation/template.dat",
+				"/D/OpenBLAS-0.2.19/USAGE.md",
+				"/E/Learning/Code/Markdown/TodoList.org",
+				"/E/Learning/Code/Markdown/org-learning.org",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/orgmode/orgmode.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/orgmode.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/orgmode/messages/install.org",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/xFrame.dat",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+				"/E/Learning/Code/Markdown/EmacsMagit.markdown",
+				"/E/Learning/Code/Markdown/EmacsEvernote.markdown",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
+				"/C/Users/zhang/Desktop/threadForMFE.c",
+				"/C/Users/zhang/Desktop/readme.md",
+				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
+				"/C/Users/zhang/Desktop/忽略掉的时间.txt",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/wavData.dat",
+				"/D/Program Files/Sublime Text 3/workspace/demo.c",
+				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/User/C Snippets/for.sublime-snippet",
 				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/nmf_beta.c",
 				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/HFile.dat",
 				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/HFile2.dat",
@@ -421,13 +512,11 @@
 				"/C/Users/zhang/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/forv.sublime-snippet",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/spectrumOfFrame.c",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiThreadDemo/MultiThreadDemo/compare.dat",
-				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/multiF0Estimation.c",
 				"/D/Program Files/Sublime Text 3/workspace/result.dat",
 				"/C/Windows/System32/drivers/etc/HOSTS",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/kiss-fft/README",
 				"/E/Learning/Code/LeetCode/addTwoNumbers.c",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/Analyzer.c",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/fftw/fftw3.h",
 				"/E/Learning/Code/Markdown/C Language Standard.markdown",
 				"/E/Learning/Code/Markdown/C内存错误.markdown",
@@ -478,63 +567,7 @@
 				"/C/Users/itec/Desktop/bookmarks_2016_7_18.html",
 				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
 				"/E/Program Files/Sublime Text 3/workspace/sublime-text.md",
-				"/E/Program Files/Sublime Text 3/workspace/write.md",
-				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.prf",
-				"/G/Downloads/matlab.prf",
-				"/G/Downloads/matlab-monokai.prf",
-				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.settings",
-				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/History.bak",
-				"/E/Program Files/MATLAB/workspace/MultiF0Estimation/template.dat",
-				"/F/Learning/Code/LeetCode/reverseInteger.c",
-				"/F/Learning/Code/LeetCode/addTwoNumbers.c",
-				"/F/IAS/乐谱跟踪/多音调检测/MultiFreqEstimation/readme",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/H_test2.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/要使用全局参数.txt",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test2.dat",
-				"/F/Learning/Code/LeetCode/HuffmanCoding.h",
-				"/F/Learning/Code/LeetCode/HuffmanCoding.c",
-				"/F/Learning/Code/LeetCode/HuffmanCodingImplement.c",
-				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/bk_xmas1_ENSTDkAm_H.dat",
-				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/xFrame2.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame2.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRoll.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/testResult.txt",
-				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/H_test.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/computeTemplate.c",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_convert.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/multiF0Estimation.c",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfAudio.c",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfAudio.h",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/fftOfFrame.h",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/spectrumOfFrame.h",
-				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRoll_commit.dat",
-				"/F/IAS/乐谱跟踪/wav解析/nmf/version_1.03beta/Makefile",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/frameData.txt",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_beta.c",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_updateW.c",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/nmf_beta.h",
-				"/F/Learning/Code/LeetCode/addTwoNumbers.cpp",
-				"/F/Learning/Code/LeetCode/linearlistImplement.c",
-				"/F/Learning/Code/LeetCode/QuickSort.c",
-				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/doxygen commit.sublime-snippet",
-				"/F/Learning/Code/LeetCode/TwoSum.c",
-				"/F/Learning/Code/LeetCode/TwoSum.cpp",
-				"/F/Learning/Code/LeetCode/LongestSubstring.c",
-				"/F/Learning/Code/LeetCode/linearlist.c",
-				"/F/Learning/Code/LeetCode/AddTwoNumbers.cpp",
-				"/F/Learning/Code/LeetCode/LinearListImplement.c",
-				"/F/Learning/Code/LeetCode/LinearList.c",
-				"/F/Learning/Code/LeetCode/LinearList.h",
-				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
-				"/e/mingw/lib/gcc/mingw32/4.9.3/include/c++/bits/c++0x_warning.h",
-				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
-				"/F/Learning/Code/LeetCode/test.py",
-				"/C/Users/itec/Desktop/A10、泛微PC端演示flash/weaver_E8/weaver_E8/index.html"
+				"/E/Program Files/Sublime Text 3/workspace/write.md"
 			],
 			"find":
 			{
@@ -552,6 +585,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"extra",
+					"originWav",
+					"\\t",
+					", ",
+					"\\n",
 					"0.050584",
 					"0.053209",
 					"fftw_plan_dft_1d",
@@ -563,9 +601,15 @@
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"carry",
+					"jOriginWav",
+					"",
+					"\\n",
+					"\\r ",
+					","
 				],
 				"reverse": false,
 				"show_context": true,
@@ -588,7 +632,7 @@
 			},
 			"output.exec":
 			{
-				"height": 118.0
+				"height": 243.0
 			},
 			"output.find_results":
 			{
@@ -660,8 +704,20 @@
 				"selected_items":
 				[
 					[
+						"ad",
+						"addTwoNumbers.cpp\t(addTwoNumbers.cpp)"
+					],
+					[
+						"a",
+						"a_list"
+					],
+					[
+						"jTe",
+						"jTemplateData"
+					],
+					[
 						"for",
-						"for	For Loop"
+						"for\tFor Loop"
 					],
 					[
 						"list",
@@ -673,7 +729,7 @@
 					],
 					[
 						"ma",
-						"main	main()"
+						"main\tmain()"
 					],
 					[
 						"isoI",
@@ -688,57 +744,42 @@
 			"buffers":
 			[
 				{
-					"file": "/D/Android/workspace/jda/app/src/main/jni/jda.c",
+					"file": "/D/Program Files/Sublime Text 3/workspace/test.cpp",
 					"settings":
 					{
-						"buffer_size": 21486,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Android/workspace/jda/app/src/main/jni/jda-jni.cpp",
-					"settings":
-					{
-						"buffer_size": 2885,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Android/workspace/jda/app/src/main/jni/jda.h",
-					"settings":
-					{
-						"buffer_size": 1822,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/MFE/MFE/MFEinterface.c",
-					"settings":
-					{
-						"buffer_size": 1049,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/Sublime Text 3/workspace/readFile.java",
-					"settings":
-					{
-						"buffer_size": 1091,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/Sublime Text 3/workspace/Demo.java",
-					"settings":
-					{
-						"buffer_size": 104,
+						"buffer_size": 441,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/Java/JavaC.sublime-build",
+			"build_system": "Packages/C++/C++ Single File.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
 				[
 					[
 						[
@@ -763,8 +804,8 @@
 						]
 					],
 					[
-						"Packages/User/C++.sublime-build",
-						"Run"
+						"Packages/C++/C++ Single File.sublime-build",
+						""
 					]
 				],
 				[
@@ -908,9 +949,77 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "package re",
+				"last_filter": "insta",
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"listpa",
+						"Package Control: List Packages"
+					],
+					[
+						"docblockr",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"sublimelinter:",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git:ad",
+						"Git: Add All"
+					],
+					[
+						"git:pu",
+						"Git: Push"
+					],
+					[
+						"git:c",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add Current File"
+					],
+					[
+						"sublimel",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"sublimelinter:all",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"sublimeLinter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"git:pus",
+						"Git: Push"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
 					[
 						"package re",
 						"PackageResourceViewer: Open Resource"
@@ -952,14 +1061,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"Package Control: ins",
 						"Package Control: Install Package"
 					],
@@ -990,14 +1091,6 @@
 					[
 						"git : addc",
 						"Git: Add Current File"
-					],
-					[
-						"git:c",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Add All"
 					],
 					[
 						"git:co",
@@ -1064,20 +1157,12 @@
 						"Git: Add Current File"
 					],
 					[
-						"git com",
-						"Git: Commit"
-					],
-					[
 						"git p",
 						"Git: Push"
 					],
 					[
 						"git:in",
 						"Git: Init"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"view",
@@ -1100,7 +1185,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 432.0
+				"width": 464.0
 			},
 			"console":
 			{
@@ -1125,16 +1210,59 @@
 			"expanded_folders":
 			[
 				"/E/Learning/Code",
-				"/D/Program Files/Sublime Text 3/workspace"
+				"/E/Learning/Code/LeetCode",
+				"/E/Learning/Code/Markdown",
+				"/D/Program Files/Sublime Text 3/workspace",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test"
 			],
 			"file_history":
 			[
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Java/JavaC.sublime-build",
-				"/E/Learning/Code/readFile.java",
+				"/E/Learning/Code/LeetCode/stringIndex.cpp",
+				"/E/Learning/Code/Markdown/C++编程思想笔记.markdown",
+				"/D/Program Files/Sublime Text 3/test.cpp",
+				"/E/Learning/Code/try.cpp",
+				"/E/Learning/Code/LeetCode/addTwoNumbers.py",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/E/Learning/Code/LeetCode/addTwoNumbers.cpp",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+				"/D/Android/workspace/jda/app/src/main/jni/jda-jni.cpp",
+				"/E/Learning/Code/Markdown/android study.markdown",
+				"/D/Android/workspace/yhstaff/app/src/main/jni/main.cpp",
+				"/D/Android/workspace/Final/test1 - 副本.xml",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/Analyzer.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readWav.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/MFE.c",
+				"/F/Downloads/Pachelbel - Canon in D.mxl",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/MFE.h",
+				"/C/Users/zhangqianyi/Desktop/test1.xml",
+				"/E/Learning/Code/Markdown/C语言接口与实现.markdown",
+				"/D/Android/workspace/Final/test1.xml",
+				"/D/Android/workspace/Final/test22.xml",
+				"/D/Android/workspace/Final/demo.xml",
+				"/D/Android/workspace/Final/wav1.xml",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
+				"/C/Users/zhangqianyi/Desktop/test4.xml",
+				"/C/Users/zhangqianyi/Desktop/test22.xml",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiFreqEstimation/MultiFreqEstimation/xFrame2.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/win.txt",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/test.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Demo/Demo/result.txt",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/result.txt",
+				"/E/Learning/Code/LeetCode/twoSum.cpp",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
 				"/D/Program Files/Sublime Text 3/workspace/readFile.java",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test/template.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MFE/MFE/MFEinterface.c",
+				"/D/Android/workspace/jda/app/src/main/jni/jda.h",
+				"/D/Android/workspace/jda/app/src/main/jni/jda.c",
+				"/D/Program Files/Sublime Text 3/workspace/Demo.cpp",
+				"/D/Program Files/Sublime Text 3/workspace/Demo.java",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Java/JavaC.sublime-build",
+				"/E/Learning/Code/readFile.java",
 				"/D/Program Files/Sublime Text 3/workspace/Demo.c",
-				"/D/Android/workspace/jda/app/src/main/jni/jda-jni.cpp",
 				"/E/Learning/Code/LeetCode/reverseInteger.c",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MFE/MFE/MFE.c",
 				"/D/Program Files/Sublime Text 3/workspace/data.dat",
@@ -1148,12 +1276,10 @@
 				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/xFrame.dat",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
 				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
 				"/E/Learning/Code/Markdown/EmacsMagit.markdown",
 				"/E/Learning/Code/Markdown/EmacsEvernote.markdown",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/readme.md",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/pianoRoll.dat",
 				"/C/Users/zhang/Desktop/threadForMFE.c",
 				"/C/Users/zhang/Desktop/readme.md",
 				"/D/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme.md",
@@ -1177,7 +1303,6 @@
 				"/C/Windows/System32/drivers/etc/HOSTS",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/kiss-fft/README",
 				"/E/Learning/Code/LeetCode/addTwoNumbers.c",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/Analyzer.c",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/test/test/fftw/fftw3.h",
 				"/E/Learning/Code/Markdown/C Language Standard.markdown",
 				"/E/Learning/Code/Markdown/C内存错误.markdown",
@@ -1219,44 +1344,7 @@
 				"/F/Learning/Code/Markdown/MultiFreqEstimation.markdown",
 				"/F/Learning/Code/Markdown/test.txt",
 				"/F/Learning/Code/LeetCode/linearlist.h",
-				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/isolInfo.dat",
-				"/E/Program Files/Sublime Text 3/workspace/Emacs yasnippet.md",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/template.dat",
-				"/E/Program Files/Sublime Text 3/workspace/demo.c",
-				"/F/Learning/Code/LeetCode/stringToInteger.c",
-				"/C/Users/itec/Desktop/bookmarks_2016_7_18.html",
-				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
-				"/E/Program Files/Sublime Text 3/workspace/sublime-text.md",
-				"/E/Program Files/Sublime Text 3/workspace/write.md",
-				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.prf",
-				"/G/Downloads/matlab.prf",
-				"/G/Downloads/matlab-monokai.prf",
-				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/matlab.settings",
-				"/C/Users/itec/AppData/Roaming/MathWorks/MATLAB/R2014b/History.bak",
-				"/E/Program Files/MATLAB/workspace/MultiF0Estimation/template.dat",
-				"/F/Learning/Code/LeetCode/reverseInteger.c",
-				"/F/Learning/Code/LeetCode/addTwoNumbers.c",
-				"/F/IAS/乐谱跟踪/多音调检测/MultiFreqEstimation/readme",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/readme",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiFreqEstimation/MultiFreqEstimation/H_test2.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/要使用全局参数.txt",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test2.dat",
-				"/F/Learning/Code/LeetCode/HuffmanCoding.h",
-				"/F/Learning/Code/LeetCode/HuffmanCoding.c",
-				"/F/Learning/Code/LeetCode/HuffmanCodingImplement.c",
-				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/bk_xmas1_ENSTDkAm_H.dat",
-				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/xFrame2.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/xFrame2.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_test.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/pianoRoll.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/testResult.txt",
-				"/E/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/pianoTranscription/H_test.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/computeTemplate.c",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/H_convert.dat",
-				"/E/Program Files/Microsoft Visual Studio 12.0/workspace/MultiF0Estimation/MultiF0Estimation/multiF0Estimation.c"
+				"/C/Users/itec/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings"
 			],
 			"find":
 			{
@@ -1274,6 +1362,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"extra",
+					"originWav",
+					"\\t",
+					", ",
 					"\\n",
 					"0.050584",
 					"0.053209",
@@ -1289,6 +1381,11 @@
 				"regex": true,
 				"replace_history":
 				[
+					"carry",
+					"jOriginWav",
+					"",
+					"\\n",
+					"\\r ",
 					","
 				],
 				"reverse": false,
@@ -1304,191 +1401,128 @@
 				},
 				{
 					"path": "D:\\Program Files\\Sublime Text 3\\workspace"
+				},
+				{
+					"path": "D:\\Program Files\\Microsoft Visual Studio 14.0\\workspace\\Test\\Test"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 5,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Android/workspace/jda/app/src/main/jni/jda.c",
+							"file": "/D/Program Files/Sublime Text 3/workspace/test.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 21486,
+								"buffer_size": 441,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										96,
-										0
+										330,
+										330
 									]
 								],
 								"settings":
 								{
-									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/C++/C.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 5076.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/Android/workspace/jda/app/src/main/jni/jda-jni.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2885,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												424,
+												425
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												283,
+												284
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										1158,
-										1158
-									]
-								],
-								"settings":
-								{
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
 									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Android/workspace/jda/app/src/main/jni/jda.h",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1822,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										143,
-										143
-									]
-								],
-								"settings":
-								{
-									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
+									"open_with_edit": true,
 									"syntax": "Packages/C++/C++.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 162.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/Program Files/Microsoft Visual Studio 14.0/workspace/MFE/MFE/MFEinterface.c",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1049,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										442,
-										442
-									]
-								],
-								"settings":
-								{
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/C++/C.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/Program Files/Sublime Text 3/workspace/readFile.java",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1091,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										182,
-										182
-									]
-								],
-								"settings":
-								{
-									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Java/Java.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/Program Files/Sublime Text 3/workspace/Demo.java",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 104,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										99,
-										99
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Java/Java.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1497,6 +1531,11 @@
 							"stack_index": 0,
 							"type": "text"
 						}
+					]
+				},
+				{
+					"sheets":
+					[
 					]
 				}
 			],
@@ -1517,11 +1556,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -1535,9 +1581,17 @@
 			{
 				"height": 118.0
 			},
-			"output.exec":
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.clipboard_manager":
 			{
 				"height": 118.0
+			},
+			"output.exec":
+			{
+				"height": 203.0
 			},
 			"output.find_results":
 			{
@@ -1556,7 +1610,7 @@
 				"height": 118.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,559,0,0,1114",
+			"position": "0,2,3,-1,-1,-1,-1,666,2065,107,3179",
 			"project": "",
 			"replace":
 			{
