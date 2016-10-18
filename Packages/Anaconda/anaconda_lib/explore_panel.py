@@ -49,7 +49,12 @@ class ExplorerPanel:
             cluster = self.options
 
         if len(cluster) == 1 and not forced:
-            Jumper(self.view, cluster[0]['position']).jump()
+            try:
+                Jumper(self.view, cluster[0]['position']).jump()
+            except KeyError:
+                if len(cluster[0].get('options', [])) == 1 and not forced:
+                    Jumper(
+                        self.view, cluster[0]['options'][0]['position']).jump()
             return
 
         self.last_cluster = cluster
@@ -128,7 +133,7 @@ class Jumper:
         """Toggle mark indicator to focus the cursor
         """
 
-        path, line, column = self.position.split(':')
+        path, line, column = self.position.rsplit(':', 2)
         pt = self.view.text_point(int(line) - 1, int(column))
         region_name = 'anaconda.indicator.{}.{}'.format(
             self.view.id(), line
