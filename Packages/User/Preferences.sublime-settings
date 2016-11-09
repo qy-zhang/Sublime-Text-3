@@ -1,8 +1,18 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 11,
+	// 主题：Afterglow https://github.com/YabataDesign/afterglow-theme
+	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	// ↓ 对应主题特有的配置项，非sublime默认自带 ↓
+	"tabs_small": true,
+	"status_bar_brighter": true,
+	"theme": "Afterglow-green.sublime-theme",
+
+	// 以下是 sublime 自带配置项，可根据自己需要开启
+	"font_size": 11.5, // 字号
+	"highlight_line": true, // 高亮当前行
+	"show_encoding": true
 }

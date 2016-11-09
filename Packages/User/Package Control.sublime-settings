@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"BracketHighlighter"
 	],
 	"installed_packages":
 	[
@@ -36,6 +37,7 @@
 		"Sublimerge Pro",
 		"SublimeTmpl",
 		"Terminal",
+		"Theme - Afterglow",
 		"TrailingSpaces",
 		"WakaTime",
 		"Web Inspector"

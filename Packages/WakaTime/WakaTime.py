@@ -7,7 +7,7 @@ Website:     https://wakatime.com/
 ==========================================================="""
 
 
-__version__ = '7.0.11'
+__version__ = '7.0.12'
 
 
 import sublime
@@ -575,7 +575,7 @@ class DownloadPython(threading.Thread):
     def run(self):
         log(INFO, 'Downloading embeddable Python...')
 
-        ver = '3.5.0'
+        ver = '3.5.2'
         arch = 'amd64' if platform.architecture()[0] == '64bit' else 'win32'
         url = 'https://www.python.org/ftp/python/{ver}/python-{ver}-embed-{arch}.zip'.format(
             ver=ver,

@@ -191,7 +191,7 @@ def add_lint_marks(view, lines, **errors):
     }
     style = get_settings(view, 'anaconda_linter_mark_style', 'outline')
     show_underlines = get_settings(view, 'anaconda_linter_underlines', True)
-    if style != 'none' or style == 'none' and show_underlines:
+    if show_underlines:
         for type_name, underlines in types.items():
             if len(underlines) > 0:
                 view.add_regions(
@@ -202,6 +202,9 @@ def add_lint_marks(view, lines, **errors):
 
     if len(lines) > 0:
         outline_style = {
+            'solid_underline': sublime.DRAW_NO_FILL | sublime.DRAW_NO_OUTLINE | sublime.DRAW_SOLID_UNDERLINE,
+            'stippled_underline': sublime.DRAW_NO_FILL | sublime.DRAW_NO_OUTLINE | sublime.DRAW_STIPPLED_UNDERLINE,
+            'squiggly_underline': sublime.DRAW_NO_FILL | sublime.DRAW_NO_OUTLINE | sublime.DRAW_SQUIGGLY_UNDERLINE,
             'outline': sublime.DRAW_OUTLINED,
             'none': sublime.HIDDEN,
             'fill': None
