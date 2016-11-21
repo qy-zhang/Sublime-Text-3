@@ -2,21 +2,13 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"BracketHighlighter"
 	],
 	"installed_packages":
 	[
-		"Anaconda",
-		"AutoPEP8",
-		"BracketHighlighter",
 		"Clipboard Manager",
-		"CMake",
 		"ConvertToUTF8",
-		"Diffy",
 		"DocBlockr",
-		"Emmet",
 		"Evernote",
-		"FileDiffs",
 		"Git",
 		"HexViewer",
 		"IMESupport",
@@ -39,7 +31,6 @@
 		"Terminal",
 		"Theme - Afterglow",
 		"TrailingSpaces",
-		"WakaTime",
-		"Web Inspector"
+		"WakaTime"
 	]
 }
