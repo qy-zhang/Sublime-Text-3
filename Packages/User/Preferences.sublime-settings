@@ -4,7 +4,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"0_package_control_loader",
 		"Vintage"
 	],
 	"show_encoding": true,

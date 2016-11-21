@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"Clipboard Manager",
-		"ConvertToUTF8",
 		"DocBlockr",
 		"Evernote",
 		"Git",
@@ -21,16 +20,13 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"SideBarEnhancements",
-		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
 		"SublimeREPL",
-		"Sublimerge Pro",
 		"SublimeTmpl",
 		"Terminal",
 		"Theme - Afterglow",
-		"TrailingSpaces",
 		"WakaTime"
 	]
 }
