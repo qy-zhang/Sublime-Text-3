@@ -1,0 +1,13 @@
+{
+	"include_dirs" : ["D:/Program Files/Microsoft Visual Studio 14.0/VC/include"],
+	// "autocomplete_all" : "true",
+	"auto_complete_triggers":
+    [
+        {
+            "characters": "."
+        },
+        {
+            "characters": ">"
+        },
+    ],
+}

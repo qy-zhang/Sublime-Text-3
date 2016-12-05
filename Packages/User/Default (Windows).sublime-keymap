@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+-"], "command": "navigation_history_back" },
+	{ "keys": ["ctrl+shift+-"], "command": "navigation_history_forward" },
+	
+]
