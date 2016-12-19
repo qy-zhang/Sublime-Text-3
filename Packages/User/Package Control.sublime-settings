@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"C# Snippets",
 		"Clipboard Manager",
+		"ConvertToUTF8",
 		"Diffy",
 		"DocBlockr",
 		"Evernote",

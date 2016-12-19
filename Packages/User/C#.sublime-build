@@ -1,0 +1,19 @@
+{
+	"shell_cmd": "csc \"${file}\"",
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+    "working_dir": "${file_path}",
+    "selector": "source.cs",
+    "encoding": "utf-8",
+
+    "variants":
+    [
+        {
+            "name": "Run in CMD",
+            "shell_cmd": "csc \"${file}\" && start cmd /c \"\"${file_path}/${file_base_name}\"  & pause \""
+        },
+        {
+            "name": "Run in Sublime",
+            "shell_cmd": "csc \"${file}\" && cmd /c \"${file_path}/${file_base_name}\""
+        }
+    ]
+}

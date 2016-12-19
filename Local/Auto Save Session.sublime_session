@@ -1123,7 +1123,7 @@
 					"file": "/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-build",
 					"settings":
 					{
-						"buffer_size": 552,
+						"buffer_size": 521,
 						"encoding": "UTF-8",
 						"line_ending": "Windows",
 						"name": "untitled.sublime-build"
@@ -1374,7 +1374,7 @@
 					],
 					[
 						"Packages/User/C#.sublime-build",
-						"Run in Sublime"
+						"Run in CMD"
 					]
 				],
 				[
@@ -1394,7 +1394,7 @@
 					]
 				]
 			],
-			"build_varint": "Run in Sublime",
+			"build_varint": "Run in CMD",
 			"command_palette":
 			{
 				"height": 148.0,
@@ -2121,15 +2121,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 552,
+								"buffer_size": 521,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										386,
-										386
+										469,
+										469
 									]
 								],
 								"settings":
