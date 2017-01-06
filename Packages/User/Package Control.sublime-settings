@@ -22,6 +22,7 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"SideBarEnhancements",
+		"SmartMarkdown",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
@@ -29,6 +30,7 @@
 		"SublimeTmpl",
 		"Terminal",
 		"Theme - Afterglow",
+		"Unity3D",
 		"WakaTime"
 	]
 }
