@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/E/workspace",
 		"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server",
 		"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Test/Test",
 		"/D/Program Files/Sublime Text 3/workspace",
@@ -13,7 +14,7 @@
 		"/E/Program Files/Sublime Text 3/workspace"
 	],
 	"last_version": 3126,
-	"last_window_id": 41,
+	"last_window_id": 43,
 	"log_indexing": false,
 	"settings":
 	{
@@ -347,6 +348,30 @@
 				[
 					[
 						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C#.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C#.sublime-build",
+							"Run in CMD"
+						],
+						[
+							"Packages/User/C#.sublime-build",
+							"Run in Sublime"
+						]
+					],
+					[
+						"Packages/User/C#.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/User/C#.sublime-build",
 							""
 						],
@@ -405,9 +430,13 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "list",
+				"last_filter": "Snippet: ",
 				"selected_items":
 				[
+					[
+						"Snippet: ",
+						"Snippet: Namespace"
+					],
 					[
 						"list",
 						"Package Control: List Packages"
@@ -511,10 +540,6 @@
 					[
 						"gita",
 						"Git: Add All"
-					],
-					[
-						"Snippet: ",
-						"Snippet: doxygen commit"
 					],
 					[
 						"git:",
@@ -736,6 +761,8 @@
 				"height": 513.0,
 				"history":
 				[
+					"asdf",
+					"view.run_command('example')",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
 					"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')  ",
@@ -753,10 +780,87 @@
 			},
 			"file_history":
 			[
+				"/E/workspace/Clion/scoreFollowing-v2/Data/pianoRoll.dat",
+				"/E/workspace/Matlab/scoreFollowing/dp.m",
+				"/E/workspace/Clion/pianoTranscription/hashtable.h",
+				"/E/workspace/Clion/pianoTranscription/Integration_server.cpp",
+				"/E/workspace/AS/AudioFinger/v1/yhstaff/app/src/main/jni/hashtable.c",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/matchIEvent.m",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/matchAllCandidate.m",
+				"/E/workspace/Matlab/scoreFollowing/matchAllCandidate.m",
+				"/E/workspace/Matlab/scoreFollowing/matchIEvent.m",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/findPath.m",
+				"/E/workspace/Matlab/scoreFollowing/maxUniqueEvent.m",
+				"/E/workspace/Matlab/scoreFollowing/scoreFollowing.zip",
+				"/E/workspace/Matlab/scoreFollowing/scoreFollowingEvent.m",
+				"/E/workspace/Matlab/scoreFollowing/scoreFollowingWav.m",
+				"/E/workspace/Sublime-workspace/Markdown/C++编程思想（1）.md",
+				"/E/workspace/Clion/scoreFollowing/dynamicProgramming.cpp",
+				"/E/workspace/Clion/scoreFollowing/dynamicProgramming.h",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/dp.m",
+				"/E/workspace/Clion/scoreFollowing/scoreFollowingWav.h",
+				"/E/workspace/Sublime-workspace/Markdown/面试项目介绍.md",
+				"/E/workspace/workspace.sublime-workspace",
+				"/F/360Downloads/filelist.dat",
+				"/C/Users/zhangqianyi/Desktop/hosts",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Program Files/Unity/workspace/Draw/Assets/Scripts/AudioTest.cs",
+				"/D/Program Files/Unity5.5/workspace/CanvasDemo/Assets/Scripts/TiltWindow.cs",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/RecentJump/RecentJump.py",
+				"/D/Program Files/Unity5.5/workspace/CanvasDemo/Assets/Scripts/DragMe.cs",
+				"/E/Learning/Code/rarreg.key",
+				"/E/Learning/Code/Markdown/Unity学习笔记.md",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-schu_143_1_ENSTDkAm.dat",
+				"/E/Learning/Code/workspace/c/CMakeDemo/CMakeLists.txt",
+				"/D/Program Files/JetBrains/CLion 2016.3/workspace/pianoTranscription/Integration_server.c",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/serverResult/xH.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/G大调小步舞曲(1级)演奏MIDI.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/H.dat",
+				"/E/Learning/Code/xHmatlab.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/xH.dat",
+				"/D/Program Files/Unity/workspace/CardMatch/Assets/Scripts/GameManager.cs",
+				"/D/Program Files/Unity/workspace/CardMatch/Assets/Scripts/Cursor.cs",
+				"/D/Program Files/Unity/workspace/CardMatch/Assets/Scripts/Card.cs",
+				"/D/Program Files/Unity/workspace/CardMatch/Assets/Editor/CreateQuad.cs",
+				"/C/Users/zhangqianyi/Desktop/result.txt",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/bug/bach_no1.dat",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-build",
+				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/PlayerController.cs",
+				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/Ammo.cs",
+				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/EnemyController.cs",
+				"/E/Learning/Code/data2.txt",
+				"/E/Learning/Code/data1.txt",
+				"/E/Learning/Code/scoreResult.txt",
+				"/E/Learning/Code/playResulttxt",
+				"/E/Learning/Code/bach_no1.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/bug/bach_no1.mid",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/scoreMidi.dat",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/server/G大调小步舞曲(1级)演奏MIDI.dat",
+				"/C/Users/zhangqianyi/AppData/Local/Temp/360zip$Temp/360$0/README.md",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/server/H.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/README.md",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiFreqEstimation/README.md",
+				"/E/Learning/Code/G大调小步舞曲(1级)图.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/test/scoreMidi.dat",
+				"/E/Learning/Code/2.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-scn15_9_ENSTDkAm.dat",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-scn15_9_ENSTDkAm_20.dat",
+				"/E/Learning/Code/xH.dat",
+				"/D/Program Files/Unity/workspace/pianoGame/Assets/Scripts/Ammos.cs",
+				"/D/Program Files/Unity/workspace/pianoGame/Assets/Scripts/Notes.cs",
+				"/E/Learning/Code/workspace/c++/pianoTranscription/determineNote.cpp",
+				"/E/Learning/Code/workspace/test.c",
+				"/E/Learning/Code/workspace/test.cpp",
+				"/E/Learning/Code/workspace/test.py",
+				"/E/Learning/Code/workspace/cs/first.cs",
+				"/E/Learning/Code/workspace/js/markOnPage.js",
+				"/D/Program Files/Unity/workspace/pianoGame-v2/Assets/Scripts/NotesControl.cs",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/README.md",
+				"/E/Learning/Code/Markdown/12月学习笔记.md",
 				"/E/Learning/Code/workspace/c++/pianoTranscription/makefile",
 				"/E/Learning/Code/workspace/c++/pianoTranscription/Integration.c",
-				"/C/Users/zhangqianyi/Desktop/hosts",
-				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/PlayerController.cs",
 				"/D/Program Files/Unity/workspace/TestProject/Assets/scripts/NewBehaviourScript.cs",
 				"/E/Learning/Code/workspace/c/server.c",
 				"/E/Learning/Code/Markdown/Makefile学习.md",
@@ -764,8 +868,6 @@
 				"/E/Learning/Code/workspace/c/MFE/makefile",
 				"/E/Learning/Code/workspace/c++/pianoTranscription/IntegrationNonRealtime.c",
 				"/E/Learning/Code/workspace/c++/pianoTranscription/Integration.h",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Scripts/Ammos.cs",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Scripts/Notes.cs",
 				"/E/Master/IAS/乐谱跟踪/onset检测/onsetsds-code-11/README",
 				"/D/Program Files/MATLAB/workspace/Data/spectrum1.dat",
 				"/E/Learning/hexo/source/_posts/12月学习笔记.md",
@@ -774,9 +876,7 @@
 				"/E/Learning/Code/Markdown/python读取wav音频.md",
 				"/E/Learning/Code/Markdown/SMART question.md",
 				"/E/Learning/Code/matlabH.dat",
-				"/E/Learning/Code/Markdown/12月学习笔记.md",
 				"/E/Learning/Code/makefile",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
 				"/D/Program Files/Unity/workspace/pianoGame-v2/Assets/Scripts/AtlasData.cs",
 				"/D/Program Files/Unity/workspace/pianoGame/readme.md",
 				"/D/Program Files/Unity/workspace/pianoGame/Assets/Editor/TexturePacker.cs",
@@ -790,15 +890,11 @@
 				"/D/Program Files/Unity/workspace/cardGame/Assets/Scripts/Cursor.cs",
 				"/D/Program Files/Unity/workspace/cardGame/Assets/Editor/TexturePacker.cs",
 				"/D/Program Files/Unity/workspace/cardGame/Assets/Scripts/AtlasData.cs",
-				"/E/Learning/Code/workspace/test.cpp",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/test/scoreMidi.dat",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/test/pianoRoll.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/serverResult/xH.dat",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/serverResult/pianoRoll.dat",
 				"/E/Learning/Code/a.midi",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/scn15_11_midi.dat",
 				"/C/Users/zhangqianyi/AppData/Local/Temp/360zip$Temp/360$1/README.md",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-scn15_9_ENSTDkAm.dat",
 				"/E/Master/IAS/乐谱跟踪/DTW/pianoScoreFollowingDataset/MIDI/MAPS_MUS-scn15_9_ENSTDkAm.mid",
 				"/E/Learning/Code/serverCode.dat",
 				"/C/Users/zhangqianyi/Desktop/evaluateRealWorld.m",
@@ -807,84 +903,15 @@
 				"/D/Program Files/Unity/workspace/chapter 10/Assets/Editor/CreateQuad.cs",
 				"/D/Program Files/WinSCP/Tmp/scp12477/home/zqy/MultiFreqEstimation/makefile",
 				"/E/Learning/Code/client.c",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
 				"/D/Program Files/Unity/workspace/chapter 10/Assets/Editor/TexturePacker.cs",
 				"/D/Program Files/Unity/workspace/chapter 10/Assets/Scripts/AtlasData.cs",
 				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/AtlasData.cs",
 				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/CreateQuad.cs",
-				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/TexturePacker.cs",
-				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/BatchRename.cs",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/chooseCandidate.m",
-				"/D/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/maps/evaluateRealWorld.m",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/computeAccRealWorld.m",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/xH.dat",
-				"/E/Learning/Code/midiGt.dat",
-				"/E/Learning/Code/H.dat",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-build",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/getTimeFreqPairString.c",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/test/scoreMidi.dat",
-				"/E/Learning/Code/workspace/js/Search Jump Around.js",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/serverResult/tScore.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/STE-000 midi.dat",
-				"/E/Learning/Code/STE-000 midi.dat",
-				"/E/Learning/Code/workspace/js/BookmarkOnPage.js",
-				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/Ammo.cs",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/Integration.c",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/computeTScore.m",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/evaluateRealWorld.m",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/determineNote.cpp",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/README.md",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/pianoRoll.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/result.dat",
-				"/E/Learning/Code/scoreMidi.dat",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/if-..-(if).sublime-snippet",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/forv.sublime-snippet",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/030-for-int-loop-(fori).sublime-snippet",
-				"/D/Program Files/Portable Applications/FeiQ/FeiqCfg.xml",
-				"/D/Program Files/PotPlayer/FileList.txt",
-				"/D/Program Files/MATLAB/workspace/Data/G大调小步舞曲(1级).xml",
-				"/C/Users/zhangqianyi/Desktop/G大调小步舞曲(1级).xml",
-				"/C/Users/zhangqianyi/Desktop/threadForAD.c",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/computeH0.h",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/scn15_11_midi.dat",
-				"/E/Learning/Code/LeetCode/QuickSort.c",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem-origin/test/test/data/GMajor/GMajorMidi.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/GMajor/GMajor.mid",
-				"/E/Learning/Code/GMajor.mid",
-				"/D/Program Files/MATLAB/workspace/Data/GMajor.mid",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/time-score.txt",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/time-performance.txt",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/scn15_11_midi.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/xFrame.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/pianoRollmatlab.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/pianoRoll.dat",
-				"/D/Program Files/MATLAB/workspace/Data/pianoRollMatlab.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MFECpp/MFECpp/scn15_11_pianoRoll.dat",
-				"/D/Program Files/MATLAB/workspace/Data/xFrame.txt",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/xH.dat",
-				"/D/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/src/README.md",
-				"/D/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/README.md",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/pianoRoll.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/xFrame.dat",
-				"/E/Learning/Code/template8k.dat",
-				"/E/Learning/Code/template8k.mat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/IntegrationNonRealtime.c",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/IntegrationNonRealtime.h",
-				"/C/Users/zhangqianyi/Desktop/time-performance.txt",
-				"/C/Users/zhangqianyi/Desktop/time-score.txt",
-				"/E/Learning/Code/workspace/sortLambda.py",
-				"/E/Learning/Code/workspace/wavProcess.py",
-				"/E/Learning/Code/Markdown/Dynamic Programming.md",
-				"/E/Learning/Code/Markdown/多音调检测问题解答.md",
-				"/E/Learning/Code/workspace/wav_data.txt",
-				"/D/Android/workspace/yhstaff/app/src/main/jni/main.cpp",
-				"/E/Learning/Code/LeetCode/Microsoft100/maxSum.cpp",
-				"/E/Learning/Code/workspace/test.c",
-				"/E/Learning/Code/Markdown/C++读书笔记.md"
+				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/TexturePacker.cs"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -898,6 +925,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					",",
+					" ",
+					"00000000000",
+					"000000000000",
 					"NotePosition",
 					"00000000000",
 					"       ",
@@ -925,6 +956,8 @@
 				"regex": true,
 				"replace_history":
 				[
+					"\\t",
+					"",
 					"upAmmoPosition",
 					"",
 					"\\n",
@@ -948,7 +981,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -994,7 +1027,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1044,6 +1077,26 @@
 			{
 				"selected_items":
 				[
+					[
+						"resu",
+						"result_size"
+					],
+					[
+						"factor",
+						"BigFactorial"
+					],
+					[
+						"result",
+						"result_size"
+					],
+					[
+						"pivot",
+						"pivotloc"
+					],
+					[
+						"pi",
+						"pivotloc"
+					],
 					[
 						"pre",
 						"PrefabAmmo"
@@ -1161,47 +1214,33 @@
 			"buffers":
 			[
 				{
-					"file": "/E/Learning/Code/workspace/test.cpp",
+					"file": "Clion/scoreFollowing/main.cpp",
 					"settings":
 					{
-						"buffer_size": 665,
+						"buffer_size": 4905,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Sublime-workspace/workspace/c++/test.cpp",
+					"settings":
+					{
+						"buffer_size": 1478,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "using System;\n\nclass test \n{\n\tpublic static void Main(string[] args)\n\t{\n\t\tConsole.WriteLine(\"test program!\");\n\t\t//fun();\n\t\t//fun(1);\n\t}\n\n\tpublic void fun(int a = 0)\n\t{\n\t\tint b = a;\n\t\tConsole.WriteLine(b);\n\t}\n}",
-					"file": "/E/Learning/Code/workspace/cs/test.cs",
-					"file_size": 225,
-					"file_write_time": 131278830902928073,
+					"file": "hexo/source/_posts/Unity绘制五线谱.md",
 					"settings":
 					{
-						"buffer_size": 209,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/Unity/workspace/Draw/Assets/Scripts/AudioTest.cs",
-					"settings":
-					{
-						"buffer_size": 1338,
-						"encoding": "UTF-8 with BOM",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "title: Unity学习笔记\ndata: 2016/12/29 9:28\ncategories: Notes\ntags: [Notes, Unity]\n---\n\n# Unity学习笔记\n\n## Unity入门\n\n### Unity的优劣势\n优点：\n多平台发布 —— Unity支持各种平台，能够导出工程到PC、ios、Android、web等平台\n良好的IDE —— 各个平台(Mac PC Linux)上都有Unity的IDE，而且IDE功能强大\n良好的生态圈 —— AssetStore，网上众多论坛，官方文档\n基于Mono的开发脚本 —— Mono的桥接，使得高效的C++图形引擎与带GC的内存安全语言进行结合。不仅减少了安全隐患，也使得大家编写跨平台代码时更佳容易。 同时，这类语言的反射机制，更适合做编辑器。而比起先前的一些DIY语言和像LUA这样的小巧型语言，Mono使脚本编程可以进行DEBUG，而不单纯的靠PRINT输出。\n\n劣势：\nUnity因为在虚拟机上面运行，占用内存会比较高，渲染性能会比较低\n无法在IOS平台上热更新C#代码（热更新的时候不需要关闭服务器，直接重新部署项目就行。冷的自然就是关闭服务器后再操作）\n\n\n对于游戏开发来说，“编辑器”十分的重要。\n>经过项目的洗礼后。 突然发现编辑器是多么的重要。 就我做的第一个页游来说，起手前两个星期，我们就做了动画编辑器，场景编辑器。而最终证明，因为这两个简陋的编辑器，使我们后面的工作变得更加容易。\n\n### 第一个Unity C#脚本\n使用Unity新建一个C#脚本之后，默认是如下所示代码\n```\nusing UnityEngine;\nusing System.Collections;\n\npublic class Ammos : MonoBehaviour {\n    // Use this for initialization\n    void Start () {\n\n    }\n    \n    // Update is called once per frame\n    void Update () {\n\n    }\n}\n```\n1. using UnityEngine\n\n\n2. Mono\n>Mono是一个由Xamarin公司所主持的自由开放源代码项目。该项目的目标是创建一系列匹配ECMA标准（Ecma-334和Ecma-335）的.NET工具，包括C#编译器和通用语言架构。与微软的.NET Framework（共通语言运行平台）不同，Mono项目不仅可以运行于Windows系统上，还可以运行于Linux，FreeBSD，Unix，OS X和Solaris，甚至一些游戏平台。\n\nMono是一个开源工程，它包含一个C#语言的编译器，一个CLR（Common Language Runtime）的运行时，和一组类库，并实现了ADO NET和ASP NET。\n\nADO.NET是一组向.NET程序员公开数据访问服务的类。ADO.NET为创建分布式数据共享应用程序提供了一组丰富的组件。\nASP.net是一种建立在通用语言上的程序构架,数据库访问主要使用ADO.NET方式\n\nMonoBehaviour是每个脚本的基类\n如果使用javascript脚本的话，每个javascript脚本都自动继承MonoBehaviour\n使用C#或者Boo脚本的时候，需要显式继承MonoBehaviour\n\n3. void Start ()\nMonoBehaviour.Start() \nStart函数是MonoBehaviour类中的一个方法，初始化的时候调用\n\n>Start is called on the frame when a script is enabled just before any of the Update methods is called the first time.\n\n4. \nVector2 是Unity中的一个结构(\nstruct in UnityEngine)，代表二维向量和点。\n首先他有一些静态变量 :\ndown(0, -1) up(0, 1) left(-1, 0) right(1, 0) one(1, 1) zero(0, 0)",
-					"file": "/E/Learning/Code/Markdown/Unity学习笔记.md",
-					"file_size": 3327,
-					"file_write_time": 131275392205646518,
-					"settings":
-					{
-						"buffer_size": 1785,
+						"buffer_size": 2313,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/User/C#.sublime-build",
+			"build_system": "Packages/User/C++.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -1257,7 +1296,7 @@
 					],
 					[
 						"Packages/User/C++.sublime-build",
-						"CMD Run"
+						"Run in Sublime"
 					]
 				],
 				[
@@ -1349,7 +1388,7 @@
 					],
 					[
 						"Packages/User/C.sublime-build",
-						""
+						"Run"
 					]
 				],
 				[
@@ -1493,9 +1532,21 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "list",
+				"last_filter": "markdown",
 				"selected_items":
 				[
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Namespace"
+					],
 					[
 						"list",
 						"Package Control: List Packages"
@@ -1539,10 +1590,6 @@
 					[
 						"install package",
 						"Package Control: Install Package"
-					],
-					[
-						"remove pa",
-						"Package Control: Remove Package"
 					],
 					[
 						"git pus",
@@ -1599,10 +1646,6 @@
 					[
 						"gita",
 						"Git: Add All"
-					],
-					[
-						"Snippet: ",
-						"Snippet: doxygen commit"
 					],
 					[
 						"git:",
@@ -1817,13 +1860,15 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 440.0
+				"width": 536.0
 			},
 			"console":
 			{
 				"height": 513.0,
 				"history":
 				[
+					"asdf",
+					"view.run_command('example')",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
 					"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')  ",
@@ -1841,18 +1886,138 @@
 			},
 			"expanded_folders":
 			[
-				"/E/Learning/Code",
-				"/E/Learning/Code/Markdown",
-				"/E/Learning/Code/workspace",
-				"/E/Learning/Code/workspace/c",
-				"/E/Learning/Code/workspace/c/CMakeDemo",
-				"/E/Learning/Code/workspace/cs"
+				"/E/workspace",
+				"/E/workspace/Clion",
+				"/E/workspace/Clion/scoreFollowing",
+				"/E/workspace/Matlab",
+				"/E/workspace/Matlab/scoreFollowing",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing",
+				"/E/workspace/Sublime-workspace",
+				"/E/workspace/Sublime-workspace/Markdown",
+				"/E/workspace/Sublime-workspace/workspace",
+				"/E/workspace/Sublime-workspace/workspace/c++"
 			],
 			"file_history":
 			[
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-schu_143_1_ENSTDkAm.dat",
+				"/E/workspace/hexo/source/reading/index.md",
+				"/E/workspace/hexo/source/_posts/hello-world.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++11新特性.md",
+				"/E/workspace/hexo/source/_posts/排序算法笔记.md",
+				"/E/workspace/hexo/source/_posts/算法-大数阶乘.md",
+				"/E/workspace/hexo/source/_posts/面试算法-字符串.md",
+				"/E/workspace/hexo/source/_posts/面试算法-数组.md",
+				"/E/workspace/hexo/source/_posts/单元测试.md",
+				"/E/workspace/Sublime-workspace/LeetCode/BigFactorial.cpp",
+				"/E/workspace/Sublime-workspace/Markdown/算法-大数阶乘.md",
+				"/E/workspace/Sublime-workspace/Markdown/大数阶乘.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++编程思想（2）.md",
+				"/E/Learning/hexo/README.md",
+				"/E/Learning/hexo/_config.yml",
+				"/E/Learning/hexo/source/about/index.md",
+				"/E/Learning/hexo/scaffolds/post.md",
+				"/E/Learning/hexo/themes/raytaylorism/_md/reading/index.md",
+				"/E/Learning/hexo/themes/raytaylorism/_md/about/index.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++编程思想（1）.md",
+				"/E/Learning/hexo/public/about/index.html",
+				"/E/Learning/hexo/scaffolds/draft.md",
+				"/E/Learning/hexo/scaffolds/page.md",
+				"/E/Learning/hexo/source/reading/index.md",
+				"/E/workspace/Sublime-workspace/Markdown/Unity碰撞和触发.md",
+				"/E/workspace/Sublime-workspace/Markdown/jni使用记录.md",
+				"/E/workspace/Sublime-workspace/Markdown/Makefile学习笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/matlab unique函数 c++实现.md",
+				"/E/workspace/Sublime-workspace/Markdown/Matlab变长参数varargin.md",
+				"/E/workspace/Sublime-workspace/Markdown/Matlab varargin.md",
+				"/E/workspace/Sublime-workspace/Markdown/python lambda.md",
+				"/E/workspace/Sublime-workspace/Markdown/python读取wav音频.md",
+				"/E/workspace/Sublime-workspace/Markdown/python学习笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/SSH学习和使用.md",
+				"/E/workspace/Sublime-workspace/Markdown/sublime编译调试c.md",
+				"/E/workspace/Sublime-workspace/Markdown/Unity绘制五线谱.md",
+				"/E/workspace/Sublime-workspace/Markdown/Unity入门笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/windows下使用Emacs注意事项.md",
+				"/E/workspace/Sublime-workspace/Markdown/操作系统笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/查找算法笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/内部排序算法笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/c++引用学习笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++ cast 四种强制类型转换关键字.md",
+				"/E/workspace/Sublime-workspace/Markdown/面试小题.md",
+				"/E/Learning/hexo/source/_posts/Unity入门笔记.md",
+				"/E/Learning/hexo/source/_posts/Unity碰撞和触发.md",
+				"/E/workspace/Sublime-workspace/Markdown/Emacs Magit.md",
+				"/E/workspace/Sublime-workspace/Markdown/Effective C++ ：让自己习惯C++.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++语法笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/Effective C++ ：构造析构赋值运算.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++动态对象创建.md",
+				"/E/workspace/Sublime-workspace/Markdown/排序算法笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/面试项目介绍.md",
+				"/E/workspace/Sublime-workspace/Markdown/多音调检测问题解答.md",
+				"/E/workspace/Unity碰撞和触发.md",
+				"/E/workspace/Sublime-workspace/Markdown/Emacs YASnippet Config.md",
+				"/E/Learning/hexo/source/_posts/C++11新特性.md",
+				"/E/Learning/hexo/source/_posts/C++ cast 四种强制类型转换关键字.md",
+				"/E/workspace/Sublime-workspace/Markdown/Effective C++ ：设计与声明.md",
+				"/E/workspace/Sublime-workspace/Markdown/Emacs Evernote.md",
+				"/E/workspace/Sublime-workspace/Markdown/Effective C++ ：资源管理.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++编程思想（5）.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++编程思想（4）.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++编程思想（3）.md",
+				"/E/workspace/Sublime-workspace/Markdown/程序员面试宝典.md",
+				"/E/Learning/hexo/source/_posts/Emacs Magit.md",
+				"/E/Learning/hexo/source/_posts/hello-world.md",
+				"/E/workspace/Sublime-workspace/Markdown/SSH学习笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/c++ reference detail.md",
+				"/E/workspace/Sublime-workspace/Markdown/12月学习笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/Makefile学习.md",
+				"/E/workspace/Sublime-workspace/Markdown/matlab unique c++ implement.md",
+				"/E/workspace/Sublime-workspace/Markdown/Unity notes.md",
+				"/E/workspace/Sublime-workspace/Markdown/SSH learning and using.md",
+				"/E/workspace/Sublime-workspace/Markdown/Dynamic Programming.md",
+				"/E/workspace/Sublime-workspace/Markdown/C++读书笔记.md",
+				"/E/workspace/Sublime-workspace/Markdown/操作系统知识记录.md",
+				"/E/workspace/Sublime-workspace/Markdown/继承和组合.md",
+				"/E/workspace/Clion/scoreFollowing/matchEvent.cpp",
+				"/E/workspace/Matlab/scoreFollowing/matchIEvent.m",
+				"/E/workspace/Clion/scoreFollowing/scoreFollowingWav.cpp",
+				"/E/workspace/Sublime-workspace/Markdown/操作系统知识总结.md",
+				"/E/workspace/Sublime-workspace/Markdown/内部排序算法总结.md",
+				"/E/workspace/Sublime-workspace/Markdown/查找算法总结.md",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
+				"/E/workspace/Unity/DrawSheetMusic/Assets/Scripts/xmlParser/XmlParser.cs",
+				"/E/workspace/Unity/DrawSheetMusic/Assets/Scripts/util/CommonParams.cs",
+				"/E/workspace/Sublime-workspace/workspace/c++/test.cpp",
+				"/E/workspace/Sublime-workspace/workspace/test.cpp",
+				"/E/workspace/Sublime-workspace/workspace/c/test.c",
+				"/E/workspace/Clion/scoreFollowing-v2/Data/pianoRoll.dat",
+				"/E/workspace/Matlab/scoreFollowing/dp.m",
+				"/E/workspace/Clion/pianoTranscription/hashtable.h",
+				"/E/workspace/Clion/pianoTranscription/Integration_server.cpp",
+				"/E/workspace/AS/AudioFinger/v1/yhstaff/app/src/main/jni/hashtable.c",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/matchIEvent.m",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/matchAllCandidate.m",
+				"/E/workspace/Matlab/scoreFollowing/matchAllCandidate.m",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/findPath.m",
+				"/E/workspace/Matlab/scoreFollowing/maxUniqueEvent.m",
+				"/E/workspace/Matlab/scoreFollowing/scoreFollowing.zip",
+				"/E/workspace/Matlab/scoreFollowing/scoreFollowingEvent.m",
+				"/E/workspace/Matlab/scoreFollowing/scoreFollowingWav.m",
+				"/E/workspace/Clion/scoreFollowing/dynamicProgramming.cpp",
+				"/E/workspace/Clion/scoreFollowing/dynamicProgramming.h",
+				"/E/workspace/Matlab/ScoreInformedPianoTranscription/code/scoreFollowing/dp.m",
+				"/E/workspace/Clion/scoreFollowing/scoreFollowingWav.h",
+				"/E/workspace/workspace.sublime-workspace",
+				"/F/360Downloads/filelist.dat",
 				"/C/Users/zhangqianyi/Desktop/hosts",
 				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Program Files/Unity/workspace/Draw/Assets/Scripts/AudioTest.cs",
+				"/D/Program Files/Unity5.5/workspace/CanvasDemo/Assets/Scripts/TiltWindow.cs",
+				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/RecentJump/RecentJump.py",
+				"/D/Program Files/Unity5.5/workspace/CanvasDemo/Assets/Scripts/DragMe.cs",
+				"/E/Learning/Code/rarreg.key",
+				"/E/Learning/Code/Markdown/Unity学习笔记.md",
+				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-schu_143_1_ENSTDkAm.dat",
 				"/E/Learning/Code/workspace/c/CMakeDemo/CMakeLists.txt",
 				"/D/Program Files/JetBrains/CLion 2016.3/workspace/pianoTranscription/Integration_server.c",
 				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/serverResult/xH.dat",
@@ -1863,125 +2028,11 @@
 				"/D/Program Files/Unity/workspace/CardMatch/Assets/Scripts/GameManager.cs",
 				"/D/Program Files/Unity/workspace/CardMatch/Assets/Scripts/Cursor.cs",
 				"/D/Program Files/Unity/workspace/CardMatch/Assets/Scripts/Card.cs",
-				"/D/Program Files/Unity/workspace/CardMatch/Assets/Editor/CreateQuad.cs",
-				"/C/Users/zhangqianyi/Desktop/result.txt",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/bug/bach_no1.dat",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-build",
-				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/PlayerController.cs",
-				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/Ammo.cs",
-				"/D/Program Files/Unity/workspace/chapter 3/Assets/scripts/EnemyController.cs",
-				"/E/Learning/Code/data2.txt",
-				"/E/Learning/Code/data1.txt",
-				"/E/Learning/Code/scoreResult.txt",
-				"/E/Learning/Code/playResulttxt",
-				"/E/Learning/Code/bach_no1.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/bug/bach_no1.mid",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/scoreMidi.dat",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/server/G大调小步舞曲(1级)演奏MIDI.dat",
-				"/C/Users/zhangqianyi/AppData/Local/Temp/360zip$Temp/360$0/README.md",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/server/H.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/README.md",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/MultiFreqEstimation/README.md",
-				"/E/Learning/Code/G大调小步舞曲(1级)图.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/test/scoreMidi.dat",
-				"/E/Learning/Code/2.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-scn15_9_ENSTDkAm.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/MAPS_MUS-scn15_9_ENSTDkAm_20.dat",
-				"/E/Learning/Code/xH.dat",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Scripts/Ammos.cs",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Scripts/Notes.cs",
-				"/E/Learning/Code/workspace/c++/pianoTranscription/determineNote.cpp",
-				"/E/Learning/Code/workspace/test.c",
-				"/E/Learning/Code/workspace/test.cpp",
-				"/E/Learning/Code/workspace/test.py",
-				"/E/Learning/Code/workspace/cs/first.cs",
-				"/E/Learning/Code/workspace/js/markOnPage.js",
-				"/D/Program Files/Unity/workspace/pianoGame-v2/Assets/Scripts/NotesControl.cs",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/AudioRealTimeProcessSystem/README.md",
-				"/E/Learning/Code/Markdown/12月学习笔记.md",
-				"/E/Learning/Code/workspace/c++/pianoTranscription/makefile",
-				"/E/Learning/Code/workspace/c++/pianoTranscription/Integration.c",
-				"/D/Program Files/Unity/workspace/TestProject/Assets/scripts/NewBehaviourScript.cs",
-				"/E/Learning/Code/workspace/c/server.c",
-				"/E/Learning/Code/Markdown/Makefile学习.md",
-				"/E/Learning/Code/workspace/c/makefile",
-				"/E/Learning/Code/workspace/c/MFE/makefile",
-				"/E/Learning/Code/workspace/c++/pianoTranscription/IntegrationNonRealtime.c",
-				"/E/Learning/Code/workspace/c++/pianoTranscription/Integration.h",
-				"/E/Master/IAS/乐谱跟踪/onset检测/onsetsds-code-11/README",
-				"/D/Program Files/MATLAB/workspace/Data/spectrum1.dat",
-				"/E/Learning/hexo/source/_posts/12月学习笔记.md",
-				"/E/Learning/hexo/source/_posts/python读取wav音频.md",
-				"/E/Learning/Code/Markdown/python lambda.md",
-				"/E/Learning/Code/Markdown/python读取wav音频.md",
-				"/E/Learning/Code/Markdown/SMART question.md",
-				"/E/Learning/Code/matlabH.dat",
-				"/E/Learning/Code/makefile",
-				"/D/Program Files/Unity/workspace/pianoGame-v2/Assets/Scripts/AtlasData.cs",
-				"/D/Program Files/Unity/workspace/pianoGame/readme.md",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Editor/TexturePacker.cs",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Scripts/AtlasData.cs",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Editor/CreateQuad.cs",
-				"/D/Program Files/Unity/workspace/pianoGame/Assets/Editor/UVEditor.cs",
-				"/D/Program Files/Unity/workspace/cardGame/Assets/Editor/UVEditor.cs",
-				"/D/Program Files/Unity/workspace/cardGame/Assets/Editor/CreateQuad.cs",
-				"/D/Program Files/Unity/workspace/cardGame/Assets/Scripts/Card.cs",
-				"/D/Program Files/Unity/workspace/cardGame/Assets/Scripts/GameManager.cs",
-				"/D/Program Files/Unity/workspace/cardGame/Assets/Scripts/Cursor.cs",
-				"/D/Program Files/Unity/workspace/cardGame/Assets/Editor/TexturePacker.cs",
-				"/D/Program Files/Unity/workspace/cardGame/Assets/Scripts/AtlasData.cs",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/test/pianoRoll.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/serverResult/pianoRoll.dat",
-				"/E/Learning/Code/a.midi",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/scn15_11_midi.dat",
-				"/C/Users/zhangqianyi/AppData/Local/Temp/360zip$Temp/360$1/README.md",
-				"/E/Master/IAS/乐谱跟踪/DTW/pianoScoreFollowingDataset/MIDI/MAPS_MUS-scn15_9_ENSTDkAm.mid",
-				"/E/Learning/Code/serverCode.dat",
-				"/C/Users/zhangqianyi/Desktop/evaluateRealWorld.m",
-				"/E/Learning/Code/evaluateReadWorld.m",
-				"/E/Learning/Code/pianoRoll.dat",
-				"/D/Program Files/Unity/workspace/chapter 10/Assets/Editor/CreateQuad.cs",
-				"/D/Program Files/WinSCP/Tmp/scp12477/home/zqy/MultiFreqEstimation/makefile",
-				"/E/Learning/Code/client.c",
-				"/D/Program Files/Unity/workspace/chapter 10/Assets/Editor/TexturePacker.cs",
-				"/D/Program Files/Unity/workspace/chapter 10/Assets/Scripts/AtlasData.cs",
-				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/AtlasData.cs",
-				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/CreateQuad.cs",
-				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/TexturePacker.cs",
-				"/D/Program Files/Unity/workspace/Project4/Assets/Editor/BatchRename.cs",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/chooseCandidate.m",
-				"/D/Program Files/MATLAB/workspace/ScoreInformedPianoTranscription/code/maps/evaluateRealWorld.m",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/computeAccRealWorld.m",
-				"/E/Learning/Code/midiGt.dat",
-				"/E/Learning/Code/H.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/getTimeFreqPairString.c",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/test/scoreMidi.dat",
-				"/E/Learning/Code/workspace/js/Search Jump Around.js",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/serverResult/tScore.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/data/serverData/STE-000 midi.dat",
-				"/E/Learning/Code/STE-000 midi.dat",
-				"/E/Learning/Code/workspace/js/BookmarkOnPage.js",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/Integration.c",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/computeTScore.m",
-				"/E/Master/IAS/乐谱跟踪/Nan_Yang-ScoreInformedPianoTranscription-55af216d984c6497355fcc189be74fbb17e5816a/evaluateRealWorld.m",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/determineNote.cpp",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/Hello/Hello/pianoRoll.dat",
-				"/D/Program Files/Microsoft Visual Studio 14.0/workspace/pianoTranscription-Server/pianoTranscription-Server/result/result.dat",
-				"/E/Learning/Code/scoreMidi.dat",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/if-..-(if).sublime-snippet",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/forv.sublime-snippet",
-				"/C/Users/zhangqianyi/AppData/Roaming/Sublime Text 3/Packages/C++/Snippets/030-for-int-loop-(fori).sublime-snippet",
-				"/D/Program Files/Portable Applications/FeiQ/FeiqCfg.xml",
-				"/D/Program Files/PotPlayer/FileList.txt",
-				"/D/Program Files/MATLAB/workspace/Data/G大调小步舞曲(1级).xml",
-				"/C/Users/zhangqianyi/Desktop/G大调小步舞曲(1级).xml",
-				"/C/Users/zhangqianyi/Desktop/threadForAD.c"
+				"/D/Program Files/Unity/workspace/CardMatch/Assets/Editor/CreateQuad.cs"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -2052,24 +2103,24 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/Learning/Code/workspace/test.cpp",
+							"file": "Clion/scoreFollowing/main.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 665,
+								"buffer_size": 4905,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										665,
-										665
+										1731,
+										1731
 									]
 								],
 								"settings":
@@ -2077,73 +2128,46 @@
 									"is_init_dirty_state": false,
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 3,
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 918.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/E/Learning/Code/workspace/cs/test.cs",
+							"file": "Sublime-workspace/workspace/c++/test.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 209,
+								"buffer_size": 1478,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										204,
-										204
-									]
-								],
-								"settings":
-								{
-									"is_init_dirty_state": true,
-									"open_with_edit": true,
-									"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Program Files/Unity/workspace/Draw/Assets/Scripts/AudioTest.cs",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1338,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										199,
-										199
+										1060,
+										1060
 									]
 								],
 								"settings":
 								{
 									"is_init_dirty_state": false,
-									"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 486.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2153,35 +2177,32 @@
 					"sheets":
 					[
 						{
-							"buffer": 3,
-							"file": "/E/Learning/Code/Markdown/Unity学习笔记.md",
+							"buffer": 2,
+							"file": "hexo/source/_posts/Unity绘制五线谱.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1785,
+								"buffer_size": 2313,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										641,
-										641
+										2279,
+										2279
 									]
 								],
 								"settings":
 								{
 									"auto_complete": false,
-									"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
-									"is_init_dirty_state": true,
-									"origin_encoding": "UTF-8",
 									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1056.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -2189,7 +2210,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -2261,12 +2282,16 @@
 			{
 				"height": 118.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 116.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,675,619,116,1669",
-			"project": "LeetCode.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,747,641,188,1691",
+			"project": "workspace.sublime-project",
 			"replace":
 			{
-				"height": 72.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2296,7 +2321,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -2310,14 +2335,15 @@
 			{
 				"max_columns": 1
 			},
-			"window_id": 6,
-			"workspace_name": "/E/Learning/Code/LeetCode/LeetCode.sublime-workspace"
+			"window_id": 42,
+			"workspace_name": "/E/workspace/workspace.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/E/workspace/workspace.sublime-workspace",
 			"/E/Learning/Code/LeetCode/LeetCode.sublime-workspace"
 		]
 	}

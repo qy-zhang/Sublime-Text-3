@@ -3,6 +3,39 @@ History
 -------
 
 
+7.0.18 (2017-03-16)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v8.0.0.
+- No longer creating ~/.wakatime.cfg file, since only using Sublime settings.
+
+
+7.0.17 (2017-03-01)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v7.0.4.
+
+
+7.0.16 (2017-02-20)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v7.0.2.
+
+
+7.0.15 (2017-02-13)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v6.2.2.
+- Upgrade pygments library to v2.2.0 for improved language detection.
+
+
+7.0.14 (2017-02-08)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v6.2.1.
+- Allow boolean or list of regex patterns for hidefilenames config setting.
+
+
 7.0.13 (2016-11-11)
 ++++++++++++++++++
 
